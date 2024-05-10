@@ -21,7 +21,7 @@ This project is an IoT application that utilizes face recognition to display per
 <img src="images/training.jpg" alt="Training" width="500">
 
 #### Model Testing Output
-<img src="images/testing.jpg" alt="Testing" width="500">
+<img src="images/modeltesting.jpg" alt="Testing" width="500">
 
 ## Building and Adding the Model to Arduino IDE
 
