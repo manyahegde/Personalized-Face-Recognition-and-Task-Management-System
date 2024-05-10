@@ -17,7 +17,11 @@ This project is an IoT application that utilizes face recognition to display per
 1. Use Edge Impulse to train the face detection model using real-time photos.
 2. For this project, the model is trained for 3 faces only using transfer learning and MobileNet.
 
-<img src="images/edgeimpulse.jpg" alt="EdgeImpulse" width="500">
+#### Model Training Output
+<img src="images/training.jpg" alt="Training" width="500">
+
+#### Model Testing Output
+<img src="images/testing.jpg" alt="Testing" width="500">
 
 ## Building and Adding the Model to Arduino IDE
 
@@ -29,14 +33,14 @@ This project is an IoT application that utilizes face recognition to display per
 1. Create a database in Supabase for the to-do list.
 2. Tasks can be updated or deleted directly in Supabase.
 
-<img src="images/supabase.jpg" alt="Supabase" width="600">
+<img src="images/supabase.jpg" alt="Supabase" width="700">
 
 ## Connections
 
 - Connect the ESP32-CAM module with the ESP32 development board.
 - Connect the external display to the ESP32 board for displaying the to-do list.
 
-<img src="images/connections.jpg" alt="Connecting System" width="500">
+<img src="images/connections.jpg" alt="Connecting System" width="600">
 
 ## Usage
 
